@@ -19,7 +19,7 @@ public class TestJunit {
 
 	@AfterClass
 	public static void tearDownAfterClass() throws Exception {
-		System.out.println("Hello");
+		System.out.println("Hello world");
 
 	}
 
